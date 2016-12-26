@@ -1,6 +1,6 @@
 # DOLIST
 
-## ![Alt text](./img/img.jpg)
+## ![Alt text](./2.png)
 
 ### [NN](https://huiwenliuge.github.io/DOLIST/NN) 
 
